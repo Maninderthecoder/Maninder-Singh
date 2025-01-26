@@ -8,11 +8,13 @@ I'm a **Full Stack Developer** with expertise in building modern, responsive, an
 ---
 
 ## 🌟 Featured Project: **EVCarBike.com**
+🔗 **Live Link**: [EVCarBike.com](https://www.evcarbike.com/)  
+
 **EVCarBike** is a platform dedicated to Indian electric vehicles, offering:
 - Detailed information such as city-specific prices, specifications, colors, and features.
 - Robust search functionality enabling users to easily find and compare EVs.
 
-🔗 **Live Link**: [Visit EVCarBike](https://www.evcarbike.com/)  
+
 🖼️ **Screenshots**:
 ![Homepage](https://via.placeholder.com/800x400?text=Homepage)  
 ![Comparison Page](https://via.placeholder.com/800x400?text=Comparison+Page)
