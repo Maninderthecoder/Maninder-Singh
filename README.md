@@ -15,7 +15,7 @@ I'm a **Full Stack Developer** with expertise in building modern, responsive, an
 - Robust search functionality enabling users to easily find and compare EVs.
 
 
-🖼️ ## Homepage Screenshots
+## Homepage Screenshots
 
 ### Desktop View
 ![Desktop Homepage](./images/homepage-desktop.png "Desktop Homepage")
