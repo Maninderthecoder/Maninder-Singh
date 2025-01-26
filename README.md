@@ -18,10 +18,10 @@ I'm a **Full Stack Developer** with expertise in building modern, responsive, an
 ### Homepage Screenshots
 
 #### Desktop View
-![Desktop Homepage](./images/homepage-desktop.png "Desktop Homepage")
+![Desktop Homepage](./homepage-desktop.png "Desktop Homepage")
 
 #### Mobile View
-![Mobile Homepage](./images/homepage-mobile.png "Mobile Homepage")
+![Mobile Homepage](./homepage-mobile.png "Mobile Homepage")
 
 ---
 
